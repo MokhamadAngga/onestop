@@ -1,0 +1,61 @@
+menambahkan note untuk menyuruh mengambil nomor antrian 
+
+
+------------------------------------------------
+jika anda meragukan keaslian uang yang anda miliki silahkan laporkan melalui tombol dibawah ini
+
+
+atau mengunjungin kpw jatim jl.,.....
+
+
+pesan setelah kirim
+pastikan uang anda dengan mengunjungi ke kantor BI / kas keliling yang ada dikota anda jl.,.....
+
+jangan sebarkan/gunakan uang anda sebelum pastikan ke BI
+
+laporan ubah menjadi informasi
+
+note: informasi yang dikirimkan, bukan laporan resmi kepada BI, laporan resmi hanya dapat dilakukan di kpw  BI
+dengan membawa uang fisik.
+
+hapus NIK dan no.hp
+
+-----------------------------------------------------------------
+jadwal kegiatan
+kas keliling penukaran uang
+
+------------------------------------------------------------
+tambah kata : uang lusuh/rusak
+
+tambah field
+jumlah dan pecahan
+
+max pendaftaran 1-5 (08.00-08.30) 6-10(08.30-09.00) 11-15(09.00-09.30) 16-20(09.30-10.00)
+tambah jam pelayanan 08.00 - 12.00
+
+tambah tombol ke cara penukaran
+
+
+
+=--------================================
+ruang rapat :
+singosari lt 5 -> setting meja "roundtable, u-shape, teather,klasikal"
+blambangan lt 4
+kahuripan lt 5 -> setting meja "roundtable, u-shape, teater,klasikal"
+SLA lt.3
+PBI lt.3
+KAgrup SPPUR-SLA lt.3
+KA GAPE lt.3
+SPPUR lt2
+custom request ex: backdrop , mini garden, konsumsi
+
+mobil+driver =
+innova = 
+truk = 
+hilux = 
+HIace =
+tujuan =
+ jam = 
+tgl =
+
+
